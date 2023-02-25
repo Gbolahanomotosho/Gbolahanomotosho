@@ -3,7 +3,7 @@ I'm a tech enthusiastic
 A Cybersecurity/Hacker
 Cloud Engineering in the making (dev ops) soon.
 I love Hacking and creating malware for analysis.
-I love looking for exploit.
+I love writing exploit.
 You can reach me out on whatsapp.
 08022648626
 
