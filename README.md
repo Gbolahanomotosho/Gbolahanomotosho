@@ -60,7 +60,8 @@
 
 ## 📄 Downloadable Portfolio
 
-[📥 Download my full portfolio (PDF)](link-to-your-portfolio.pdf) – *Portfolio coming soon*
+[📥 Download my full portfolio (PDF)]
+https://github.com/Gbolahanomotosho/Gbolahanomotosho/blob/main/Portfolio.pdf
 
 ---
 
