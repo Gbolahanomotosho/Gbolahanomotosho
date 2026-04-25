@@ -52,7 +52,7 @@
 
 - **Email:** hammedg621@gmail.com
 - **LinkedIn:** [linkedin.com/in/gbolahan-omotosho](https://www.linkedin.com/in/gbolahan-omotosho-9b407a373)
-- **Telegram:** [t.me/Lord_of_haccker](https://t.me/Lord_of_haccker)
+  
 
 **I am actively seeking:** Cybersecurity Engineer, Software Developer, or AI/ML Engineer roles in Germany. Ready to relocate immediately.
 
@@ -64,5 +64,11 @@
 https://github.com/Gbolahanomotosho/Gbolahanomotosho/blob/main/Portfolio.pdf
 
 ---
+
+## My CV
+
+[Check out my cv here]
+
+https://github.com/Gbolahanomotosho/Gbolahanomotosho/blob/main/My_CV.pdf
 
 *Last updated: March 2026*
