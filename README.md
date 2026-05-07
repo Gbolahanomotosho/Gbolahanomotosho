@@ -2,7 +2,13 @@
 
 **Cybersecurity Engineer | Software Developer | AI/ML Engineer**  
 📍 Lagos, Nigeria → 🇬🇧 🇩🇪 🇧🇶 🇦🇹 🇧🇪 🇪🇺 Open to relocating to UK, Germany, Netherlands, Austria, Belgium, or anywhere in EU.
-🛂 **ELIGIBLE FOR EU TECH VISA (UK, Germany, Netherlands, Austria, Belgium)** – 7+ years of verifiable IT experience. No degree recognition required.
+🛂 **ELIGIBLE FOR:
+• Germany: IT Specialist Visa (Section 6 BeschV)
+• Netherlands: Highly Skilled Migrant Visa
+• UK: Skilled Worker Visa
+• Austria: Red-White-Red Card
+• Belgium: EU Blue Card** 7+ years verifiable IT experience. No degree recognition required.
+Ready to relocate immediately to Germany, Netherlands, UK, Austria, Belgium, or anywhere in EU
 
 ---
 
